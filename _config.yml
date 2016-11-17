@@ -16,10 +16,10 @@
 title: Submolior
 email: rafgonza@bitib.cl
 description: > # this means to ignore newlines until "baseurl:"
-  Mi blog personal sólo NACE en el afán de almacenar y revisar las tonteras en
-  las que he perdido el tiempo.'\n'
+  >NACE en el afán de almacenar y revisar las -tonteras- cuestiones en
+  las que he perdido el tiempo.
 
-  Y como justificación al bajo rendimiento laboral.
+  >Y como justificación al bajo rendimiento laboral.
   Con premeditación y alevosía el formato es sucio y desagradable para leer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "rafa.bitib.cl" # the base hostname & protocol for your site, e.g. http://example.com
